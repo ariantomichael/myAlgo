@@ -1,0 +1,17 @@
+[
+    {
+        "title":"Remove Element",
+        "problem":"Given an array and value, remove an element specified.",
+        "example":"<Text> Given input array nums = [3,2,2,3] and val=3, Your function should return length 2 </Text>" ,
+        "structure":"public class Solution(){",
+        "solution":"We need to have 2 indices"
+    },
+    {
+        "title":"Remove Duplicates",
+        "problem":"Given a sorted array, remove duplicates",
+        "example":"Given input array nums = [1,1,2,2,3],  Your function should return length 3",
+        "structure":"public class Solution(){",
+        "solution":"We can solve by iterating only once."
+    },
+
+]
